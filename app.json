@@ -4,23 +4,23 @@
   "repository": "https://github.com/DAXXTEAM",
   "env": {
     "API_ID": {
-      "description": "",
+      "description": "22486555",
       "required": true
     },
     "API_HASH": {
-      "description": "",
+      "description": "312078a4f2a2a5186a91f41b7343cb00",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "",
+      "description": "8046393424:AAGDkcm32jSoszy73QQDO1x1yjk-3SNTJt8",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "",
+      "description": "@extractor_2025_bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "",
+      "description": "7997003922",
       "required": true
     },
     "SUDO_USERS": {
@@ -28,15 +28,15 @@
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "",
+      "description": "-1002607852544",
       "required": true
     },
     "MONGO_URL": {
-      "description": "",
+      "description": "mongodb+srv://hobaw38911:hobaw38911@cluster0.qwii2sh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "1",
+      "description": "-1002607852544",
       "required": true
     }
   },
