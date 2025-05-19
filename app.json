@@ -12,11 +12,11 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "8046393424:AAGDkcm32jSoszy73QQDO1x1yjk-3SNTJt8",
+      "description": "7743489652:AAHSaA26YfXBUhSB9L6HYC4jfT0kJfKsF3I",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "@extractor_2025_bot",
+      "description": "@txt2videoss_bot",
       "required": true
     },
     "OWNER_ID": {
