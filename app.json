@@ -16,7 +16,7 @@
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "@txt2videoss_bot",
+      "description": "txt2videoss_bot",
       "required": true
     },
     "OWNER_ID": {
@@ -32,7 +32,7 @@
       "required": true
     },
     "MONGO_URL": {
-      "description": "mongodb+srv://hobaw38911:hobaw38911@cluster0.qwii2sh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "description": "mongodb+srv://kilaxad803:kilaxad803@cluster0.ll8lmlg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "PREMIUM_LOGS": {
