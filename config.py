@@ -11,4 +11,4 @@ SUDO_USERS = list(map(int, os.environ.get("SUDO_USERS", "953685850").split()))  
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://opz97167:opz97167@cluster0.mlxp6wz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")##your mongo url eg: withmongodb+srv://xxxxxxx:xxxxxxx@clusterX.xxxx.mongodb.net/?retryWrites=true&w=majority
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002571982723"))  # Telegram channel ID (with -100 prefix)
 
-PREMIUM_LOGS = os.environ.get("PREMIUM_LOGS", "-1002571982723")  # Optional here you'll get all logs
+PREMIUM_LOGS = os.environ.get("PREMIUM_LOGS", "")  # Optional here you'll get all logs
